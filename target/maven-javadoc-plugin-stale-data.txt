@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'IFCT0062_2025_pruebas_maven 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'IFCT0062_2025_pruebas_maven 1.0-SNAPSHOT API'
+com.fernandopaniagua.pruebas.util
+com.fernandopaniagua.pruebas
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/src/main/java = 1746467281536
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/tag-search-index.js = 1746554964033
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/overview-tree.html = 1746554964028
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/module-search-index.js = 1746554964032
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/index.html = 1746554964029
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/package-search-index.js = 1746554964032
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/index-all.html = 1746554964035
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/allpackages-index.html = 1746554964032
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/member-search-index.js = 1746554964033
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/overview-summary.html = 1746554964036
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/help-doc.html = 1746554964037
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/element-list = 1746554964018
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/search.html = 1746554964036
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/allclasses-index.html = 1746554964032
+/Users/tardes/IdeaProjects/IFCT0062_2025_pruebas_maven/target/reports/apidocs/type-search-index.js = 1746554964033
